@@ -1,38 +1,41 @@
-<div align="center">
+Full code do
 
-# 🧬⚡ FACEBOOK LITE
-# 🔐 NATIVE SSL / JNI RESEARCH ⚡🧬
+<div align="center">  ⚡🔥 FACEBOOK LITE SSL PINNING BYPASS 🔥⚡  👨‍💻 Muhammad Hamza
 
-### 👨‍💻 Muhammad Hamza • Android Native Security Lab
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=750&color=00FF41&center=true&vCenter=true&width=1000&lines=FACEBOOK+LITE+NATIVE+RESEARCH;JNI+ARCHITECTURE+ANALYSIS;NATIVE+.SO+BINARY+RESEARCH;ARM64+ELF+ANALYSIS;SSL%2FTLS+SECURITY+RESEARCH;ANDROID+NATIVE+SECURITY+LAB;MUHAMMAD+HAMZA" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge">
+<br>  <!-- ANIMATED TYPING HEADER -->  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=900&color=00FF00&center=true&vCenter=true&width=950&lines=Facebook+Lite+SSL+Pinning+Bypass+Tool;.so+Binary+Research;ARM64+Architecture+Support;Need+Latest+Method+Contact+Now;Muhammad+Hamza+Security+Lab" />  <br>  <!-- BADGES -->  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge">
 <img src="https://img.shields.io/badge/MODE-RESEARCH-FF0033?style=for-the-badge">
-<img src="https://img.shields.io/badge/PLATFORM-ANDROID-0099FF?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/ARCH-ARM64--V8A-9B59FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/JNI-NATIVE-FF8800?style=for-the-badge">
+<img src="https://img.shields.io/badge/PLATFORM-ANDROID-0099FF?style=for-the-badge">  </div>
 
-</div>
+🧠 SYSTEM INFORMATION
+
+📦 Package      : com.facebook.katana
+🏷️ Version      : 525.0.0.0.4
+🖥️ Architecture : ARM64-v8a
+⚙️ Module       : libcoldstart.so
+🔐 Security     : SSL Pinning Layer
+📡 Mode         : Network Research Lab
+
 
 ---
 
-# 🧠 SYSTEM INFORMATION
+🌐 CONTACT PANEL
 
-```text
-╔══════════════════════════════════════════════════════╗
-║              FACEBOOK LITE RESEARCH LAB              ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  📦 Package       : com.facebook.lite                ║
-║  🖥️ Architecture  : ARM64-v8a                        ║
-║  🔗 Interface     : JNI / Native Layer               ║
-║  ⚙️ Module        : Native .so / ELF                 ║
-║  🔐 Security      : SSL / TLS Research               ║
-║  📡 Mode          : Network Research Lab             ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+<div align="center">  📘 FACEBOOK  <a href="https://www.facebook.com/profile.php?id=100007946797233">    
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white">    
+</a>  <br><br>  📱 WHATSAPP
+
+<a href="https://wa.me/18192720340">    
+<img src="https://img.shields.io/badge/WhatsApp-Contact%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">    
+</a>  </div>    
+---  📸 EVIDENCE
+
+<div align="center">  <img src="assets/Evidence5.png.jpg" width="90%" style="border-radius:15px; box-shadow:0px 0px 25px #00ff00;">  </div>    
+---  ⚠️ DISCLAIMER
+
+This project is for educational and security research purposes only.
+All testing must be done in controlled environments.
+
+
+---
+
+<div align="center">  🔥 POWERED BY MUHAMMAD HAMZA 🔥  </div>  
