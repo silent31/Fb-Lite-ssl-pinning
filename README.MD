@@ -8,10 +8,10 @@ Full code do
 
 🧠 SYSTEM INFORMATION
 
-📦 Package      : com.facebook.katana
+📦 Package      : com.facebook.lite
 🏷️ Version      : 525.0.0.0.4
 🖥️ Architecture : ARM64-v8a
-⚙️ Module       : libcoldstart.so
+⚙️ Module       :
 🔐 Security     : SSL Pinning Layer
 📡 Mode         : Network Research Lab
 
@@ -20,7 +20,7 @@ Full code do
 
 🌐 CONTACT PANEL
 
-<div align="center">  📘 FACEBOOK  <a href="https://www.facebook.com/profile.php?id=100007946797233">    
+<div align="center">  📘 FACEBOOK LITE <a href="https://www.facebook.com/profile.php?id=100007946797233">    
 <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white">    
 </a>  <br><br>  📱 WHATSAPP
 
@@ -29,7 +29,7 @@ Full code do
 </a>  </div>    
 ---  📸 EVIDENCE
 
-<div align="center">  <img src="assets/Evidence5.png.jpg" width="90%" style="border-radius:15px; box-shadow:0px 0px 25px #00ff00;">  </div>    
+<div align="center">  <img src="assets/evidence5.png.jpg" width="90%" style="border-radius:15px; box-shadow:0px 0px 25px #00ff00;">  </div>    
 ---  ⚠️ DISCLAIMER
 
 This project is for educational and security research purposes only.
